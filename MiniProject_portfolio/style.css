@@ -1,0 +1,48 @@
+
+#box1{
+    display: inline-block;
+   
+    height: 150px;
+    width: 200px;
+    margin-right: 50px;
+    
+}
+#box1:hover{
+    background-color: pink;
+}
+#box2:hover{
+    background-color: pink;
+}
+#box3:hover{
+    background-color: pink;
+}
+#box2{
+    margin-right: 50px;
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    
+}
+#box3{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin-right: 50px;
+    
+}
+#pink{
+    height: 60px;
+    width: 80%;
+    background-color: pink;
+}
+.change{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+.heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.lng{
+    font-size: 30px;
+}
